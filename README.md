@@ -84,6 +84,11 @@ En cambio si seleccionamos todos los métodos al mismo tiempo Eclipse solo comen
 
 Lo que hecho es ir seleccionado los métodos válidos uno a uno para generar todas las etiquetas posibles.
 
+# Resultados
+
+
+
+![image](https://github.com/user-attachments/assets/e9832c6f-42bc-4d35-bb19-322e6cf5b5b9)
 
 
 

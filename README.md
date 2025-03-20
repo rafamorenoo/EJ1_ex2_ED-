@@ -7,4 +7,6 @@ En este archivo se incluirán las capturas de pantalla del proceso de documentac
 En este caso se explicará en el IDE Eclipse.
 
 1. Seleccionar proyecto.
+
+   
 ![image](https://github.com/user-attachments/assets/141a6d6c-3fd1-4a33-848a-b02eda36f653)

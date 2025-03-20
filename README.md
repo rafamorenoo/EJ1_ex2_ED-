@@ -38,12 +38,13 @@ Este error se debe a que la API no esta preparada para interpretar el carácter 
 
 
 
-3. Al eliminar el carácter el error se ha solucionado pero hay 8 errores nuevos que solucionar. Estos errores la mayoría están asociados a problemas de librerías que han cambiado el nombre...
+3. Al eliminar el carácter el error se ha solucionado pero hay 8 errores nuevos que solucionar. Estos errores la mayoría están asociados a problemas de con la importación de librerías, por ejemplo que no se encuentra el paquete.
 
 ![image](https://github.com/user-attachments/assets/f8352687-c963-4d89-b4e3-8fee3bd3c97d)
 
+4. Una vez solucionados los errores
+![image](https://github.com/user-attachments/assets/c63932f8-6710-4448-baba-3bf8d4993c9c)
 
-4.
 
 
 

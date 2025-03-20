@@ -93,5 +93,12 @@ Lo que hecho es ir seleccionado los métodos válidos uno a uno para generar tod
 
 
 
+# Aquí estas los métodos
+
+
+
+![image](https://github.com/user-attachments/assets/6d210214-fefc-4238-b789-bb109366a1c5)
+
+
 
 
